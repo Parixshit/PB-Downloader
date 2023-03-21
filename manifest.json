@@ -10,7 +10,7 @@
     "48": "./img/ph48.png",
     "128": "./img/ph128.png"
   },
-  "browser_action": {
+  "action": {
     "default_icon": "./img/ph16.png",
     "default_popup": "popup.html"
   },
