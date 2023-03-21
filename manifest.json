@@ -1,5 +1,5 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Pornhub Video Downloader",
   "version": "2.1",
   "description": "This tool extracts video interface information from Pornhub and xvideos for downloading videos.",
