@@ -12,7 +12,7 @@ sendMessageToContentScript(
     var boxEl = document.getElementsByTagName("ul")[0];
     var videoStr = "";
     videoType.forEach((item) => {
-      videoStr += `<li> <label>Resolution：<span> ${item.key} </span> </label> <button class="button down">Download</button> <button class="button copy">Copy</button></li>`;
+      videoStr += `<li> <label>Resolution:<span> ${item.key} </span> </label> <button class="button down">Download</button> <button class="button copy">Copy</button></li>`;
     });
     boxEl.innerHTML = videoStr;
     var dialog = document.getElementsByTagName("dialog")[0];

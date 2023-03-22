@@ -3,7 +3,6 @@
   "name": "Pornhub Video Downloader",
   "version": "2.1",
   "description": "This tool extracts video interface information from Pornhub and xvideos for downloading videos.",
-  "author": "Zgao",
   "permissions": ["downloads"],
   "icons": {
     "16": "./img/ph16.png",
@@ -23,6 +22,5 @@
       ],
       "js": ["content-script.js"]
     }
-  ],
-  "homepage_url": "https://zgao.top"
+  ]
 }
